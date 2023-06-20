@@ -21,32 +21,32 @@
         {
             "id":"",
             "type":"",
-            "color": "green",
-            "taste":"sweet"
+            "color": "",
+            "taste":""
         },
         {
-            "id":3,
-            "type":"watermelon",
-            "color": "green",
-            "taste":"sweet"
+            "id":"",
+            "type":"",
+            "color": "",
+            "taste":""
         },
         {
-            "id":3,
-            "type":"watermelon",
-            "color": "green",
-            "taste":"sweet"
+            "id":"",
+            "type":"",
+            "color": "",
+            "taste":""
         },
         {
-            "id":3,
-            "type":"watermelon",
-            "color": "green",
-            "taste":"sweet"
+            "id":"",
+            "type":"",
+            "color": "",
+            "taste":""
         },
         {
-            "id":3,
-            "type":"watermelon",
-            "color": "green",
-            "taste":"sweet"
+            "id":"",
+            "type":"",
+            "color": "",
+            "taste":""
         },
     ]
 }
